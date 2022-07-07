@@ -1,3 +1,6 @@
+# IMPORTANT NOTE !!! If you face this error "ModuleNotFoundError: No module named" then just download it using pip3 or pip
+# or just google it you will find out it is something easy to solve no worries ^^ For Example: pip3 install requests
+
 import pyfiglet 
 import sys 
 import socket 
