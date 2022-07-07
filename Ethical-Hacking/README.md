@@ -28,5 +28,6 @@ Python is one of the versatile programming language, created by Guido van Rossum
 - Productivity and Speed
 
 **Conclusion:**
+
 A lot of the reasons mentioned above and several others make programmers prefer Python over any other programming language. Using Python by cyber security professionals over any other programming language is also common due to factors such as better respond time, user-friendly data structure and security.
 
