@@ -1,16 +1,15 @@
-**Sources**
+THIS IS DRAFT
 
-Google Drive, GitHub, LinkedIn and e-Books
+**Sources**
+- Google Drive, GitHub, LinkedIn and e-Books
 
 **Author**
-
-Aidar Satubaldin at Gmail, GitHub, LinkedIn
-ITSM, Cybersecurity, Projects, DevSecOps
-ITIL, COBIT, ISO 27001, PRINCE2, SAFe
+- Aidar Satubaldin at Gmail, GitHub, LinkedIn
+- ITSM, Cybersecurity, Projects, DevSecOps
+- ITIL, COBIT, ISO 27001, PRINCE2, SAFe
 
 **Revision**
-
-Date: 2022-04-21 
+- Date: 2022-04-21 
 
 **Content Index**
 
