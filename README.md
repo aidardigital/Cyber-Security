@@ -1,2 +1,2 @@
 # Cyber-Security
-Here I store ethical hacking, vulnerability scanning, penetration testing and threat analysis source codes.
+Here I store information about Cybersecurity management, leadership and program best practices.
