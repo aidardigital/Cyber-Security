@@ -1,4 +1,4 @@
-**THIS IS DRAFT**
+Here I describe my experience, best practices, lessons learned and journey in Cyber Security Leadership.
 
 **Sources**
 - Google Drive, GitHub, LinkedIn and e-Books
