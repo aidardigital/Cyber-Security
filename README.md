@@ -9,6 +9,8 @@ Here I store information about Cybersecurity management, leadership and program 
 
 **Why There Is A Problem?**
 
+• Diverse laws and regulations issued by national, global and indsutry authorities.
+
 • Dfferent threats leading to large and varied array of technology and vendors.
 
 • Many times the technical response is reactive and not planned, e.g., breached.
