@@ -1,3 +1,7 @@
+# What COSO Means?
+
+COSO is an acronym for the Committee of Sponsoring Organizations. The committee created the framework in 1992, led by Executive Vice President and General Counsel, James Treadway, Jr. along with several private sector organizations, including the following: American Accounting Association.
+
 # COSO In The Cyber Age
 
 COSO Framework is useful to consider for Information Security Risk Management.
