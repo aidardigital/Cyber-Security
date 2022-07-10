@@ -3,11 +3,6 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 **Sources**
 - Google Drive, GitHub, LinkedIn and e-Books
 
-**Author**
-- Aidar Satubaldin at Gmail, GitHub, LinkedIn
-- ITSM, Cybersecurity, Projects, DevSecOps
-- ITIL, COBIT, ISO 27001, PRINCE2, SAFe
-
 **Revision**
 - Date: 2022-07-11 
 
