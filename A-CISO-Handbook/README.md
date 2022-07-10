@@ -1,9 +1,9 @@
 Here I describe my experience, best practices, lessons learned and journey in Cyber Security Leadership.
 
-**Revision**
+# **Revision**
 - Date: 2022-07-11 
 
-**Content Index**
+# **Content Index**
 
 **Introduction**
 
