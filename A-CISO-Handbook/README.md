@@ -27,8 +27,8 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 - Cyber Risks Management
 - Cybersecurity Operations
 - Vulnerability Management
-- Cybersecurity Measuremenets
 - Information Security Board
+- Cybersecurity Measuremenet
 
 **Lookback Work**
 
