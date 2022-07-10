@@ -2,5 +2,5 @@ Here I store information about Cybersecurity management, leadership and program 
 
 # Content Outline
 - Cyber Frameworks
-- Cyber Program
+- Cyber Programs
 - A CISO Handbook
