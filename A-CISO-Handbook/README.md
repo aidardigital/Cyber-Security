@@ -26,4 +26,4 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 - Personal Values & Motivation
 - Issues. Challenges. Lessons.
 - Best Practices & Consultations
-- Summary. Feedbacks. Thank Yous.
+- Summary. Feedbacks. Next Steps.
