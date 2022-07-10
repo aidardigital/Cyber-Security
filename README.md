@@ -35,7 +35,7 @@ Here I store information about Cybersecurity management, leadership and program 
 
 Source: © Deloitte & Touche LLP and affiliated entities.
 
-# What Do Need To Effectively Nanage Information Security Risk?
+# What Need To Effectively Manage Information Security Risk?
 
 1. Corporate decisions on how risk must be managed (strategy, principles,
 policies, standards etc.);
