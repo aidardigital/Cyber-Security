@@ -7,7 +7,7 @@ Here I store information about Cybersecurity management, leadership and program 
 
 # Why Formal Information Security Management Is Required?
 
-**Why is it a problem?**
+**Why There Is A Problem?**
 
 • Dfferent threats leading to large and varied array of technology and vendors.
 
@@ -15,9 +15,9 @@ Here I store information about Cybersecurity management, leadership and program 
 
 • Overall effectiveness of the security measures can be difficult to determine.
 
-• The focus is increasingly on people as the weak point not the technology.
+• The focus is increasingly on the people as the weak point not the technology.
 
-• Good security tends to be an opinion rather than a supportable fact.
+• Good cyber security tends to be an opinion rather than a supportable fact.
 
 **What Are The Implications?**
 
