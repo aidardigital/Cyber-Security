@@ -21,3 +21,10 @@ As cyber risk continues to be a critical topic of discussion in the C-suite and 
 Developing effective controls requires that organizations view the task in a comprehensive way. “Cybersecurity controls are not an IT-only problem, but rather a mission-critical business challenge,” said Robert Hirth, chairman of the Committee of Sponsoring Organizations of the Treadway Commission (COSO), during a Deloitte webcast. “It is something that involves everyone within an organization and a strategy that the organization as a whole has to get its arms and mind around,” he added.
 
   > Link: https://deloitte.wsj.com/articles/coso-guided-cybersecurity-risk-assessment-1453870942
+
+# COSO In The Cyber Age
+
+COSO Framework is useful to consider for Information Security Risk Management.
+
+  > Link: https://www.coso.org/Shared%20Documents/COSO-in-the-Cyber-Age.pdf
+ 
