@@ -14,6 +14,12 @@ Both COSO and COBIT were designed to be frameworks for internal controls, but CO
 
   > Link: https://www.auditboard.com/blog/coso-vs-cobit/
 
+# COSO In The Cyber Age
+
+COSO Framework is useful to consider for Information Security Risk Management.
+
+  > Link: https://www.coso.org/Shared%20Documents/COSO-in-the-Cyber-Age.pdf
+ 
 # COSO-guided Cybersecurity: Risk Assessment
 
 As cyber risk continues to be a critical topic of discussion in the C-suite and boardroom, organizations should consider how to adapt cyber security strategies, processes and technologies to meet this significant and constantly evolving threat. By considering the likely attack methods and routes of exploitation through a risk-assessment process, organizations can be better positioned to mitigate the potential impact that cyber breaches have on achievement of their objectives.
@@ -22,9 +28,3 @@ Developing effective controls requires that organizations view the task in a com
 
   > Link: https://deloitte.wsj.com/articles/coso-guided-cybersecurity-risk-assessment-1453870942
 
-# COSO In The Cyber Age
-
-COSO Framework is useful to consider for Information Security Risk Management.
-
-  > Link: https://www.coso.org/Shared%20Documents/COSO-in-the-Cyber-Age.pdf
- 
