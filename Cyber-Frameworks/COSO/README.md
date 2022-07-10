@@ -13,3 +13,11 @@ The COSO Framework is a system used to establish internal controls to be integra
 Both COSO and COBIT were designed to be frameworks for internal controls, but COSO focuses on fiduciary duty and financial risk reporting more broadly and COBIT is focused on the structure and security of the IT system.
 
   > Link: https://www.auditboard.com/blog/coso-vs-cobit/
+
+# COSO-guided Cybersecurity: Risk Assessment
+
+As cyber risk continues to be a critical topic of discussion in the C-suite and boardroom, organizations should consider how to adapt cyber security strategies, processes and technologies to meet this significant and constantly evolving threat. By considering the likely attack methods and routes of exploitation through a risk-assessment process, organizations can be better positioned to mitigate the potential impact that cyber breaches have on achievement of their objectives.
+
+Developing effective controls requires that organizations view the task in a comprehensive way. “Cybersecurity controls are not an IT-only problem, but rather a mission-critical business challenge,” said Robert Hirth, chairman of the Committee of Sponsoring Organizations of the Treadway Commission (COSO), during a Deloitte webcast. “It is something that involves everyone within an organization and a strategy that the organization as a whole has to get its arms and mind around,” he added.
+
+  > Link: https://deloitte.wsj.com/articles/coso-guided-cybersecurity-risk-assessment-1453870942
