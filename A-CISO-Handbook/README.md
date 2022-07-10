@@ -32,9 +32,9 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 
 **Lookback Work**
 
-- Let’s Do Practice & Exercise
 - Personal Values & Motivation
 - Issues. Challenges. Lessons.
+- Let’s Do Practice & Exercise
 - Best Practices & Consultations
 
 **Conclusion**
