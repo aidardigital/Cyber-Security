@@ -1,6 +1,6 @@
-# ISO 27000 family of standards by Feb 11, 2015:
+# ISO 27000 Family Of Standards by Feb 11, 2015:
 
--  ISO 27000:2014 – ISM - Overview and vocabulary
+- ISO 27000:2014 – ISM - Overview and vocabulary
 - ISO 27001:2013 – ISMS - Requirements
 - ISO 27002:2013 – Code of practice for information security controls
 - ISO 27003:2010 – ISMS - Implementation guidance
