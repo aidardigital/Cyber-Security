@@ -1,8 +1,5 @@
 Here I describe my experience, best practices, lessons learned and journey in Cyber Security Leadership.
 
-**Sources**
-- Google Drive, GitHub, LinkedIn and e-Books
-
 **Revision**
 - Date: 2022-07-11 
 
@@ -25,4 +22,3 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 - Issues, Challenges, Lessons
 - Best Practices, Consultations
 - Summary, Feedbacks and Thanks
-
