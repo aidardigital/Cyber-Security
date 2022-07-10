@@ -5,16 +5,24 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 
 **Content Index**
 
+**Introduction**
+
 - Self-Introduction & Who Am I
 - Purpose of a CISO Handbook
+
+**Vision & Mission***
 
 - The Cybersecurity Program
 - Digital Technologies Effect
 - Digital Methodologies Effect
 
-- Cybersecurity Risks & Threats
-- Cybersecurity Business Value
+**Start Work**
+
 - Leadership Responsibilities
+- Cybersecurity Business Value
+- Cybersecurity Risks & Threats
+
+**Actual Work**
 
 - Cyber Risks Management
 - Cybersecurity Operations
@@ -22,8 +30,12 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 - Cybersecurity Measuremenets
 - Information Security Board
 
+**Lookback Work**
+
 - Let’s Do Practice & Exercise
 - Personal Values & Motivation
 - Issues. Challenges. Lessons.
 - Best Practices & Consultations
+
+**Conclusion**
 - Summary. Feedbacks. Next Steps.
