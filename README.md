@@ -33,7 +33,7 @@ Here I store information about Cybersecurity management, leadership and program 
 
 • It is easy to loose sight of the big picture by focusing on issues.
 
-Source: © Deloitte & Touche LLP and affiliated entities.
+Source: © Deloitte & Touche LLP and affiliated entities (Edited).
 
 # What Need To Effectively Manage Information Security Risk?
 
