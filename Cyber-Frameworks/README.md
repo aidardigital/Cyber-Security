@@ -4,5 +4,5 @@ There are many cyber security frameworks and standard, which I'll describe here
 - ISO 27000
 
 # Frameworks
-- NIST
+- NIST CSF
 - COSO
