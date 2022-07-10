@@ -33,7 +33,7 @@ Here I store information about Cybersecurity management, leadership and program 
 
 • It is easy to loose sight of the big picture by focusing on issues.
 
-Source: © Deloitte & Touche LLP and affiliated entities (Edited).
+Source: Based on © Deloitte & Touche LLP and affiliated entities (Edited).
 
 # What Need To Effectively Manage Information Security Risk?
 
@@ -63,7 +63,7 @@ and
 
 Information security needs to be a continuously operating management system
 
-Source: © Deloitte & Touche LLP and affiliated entities.
+Source: Based on © Deloitte & Touche LLP and affiliated entities (Edited).
 
 # Recommended Resources
 - PECB - Professional Evaluation and Certification Board (ISO/IEC)
