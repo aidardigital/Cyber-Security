@@ -2,7 +2,7 @@ There are many cyber security frameworks and standard, which I'll describe here
 
 # Standards
 
-- ISO 27000 - Information Security Management System
+- ISO 27000 - Information Security Management System (ISMS)
 - ISO-20000 - IT service management (ITSM) (SMS)
 - ISO 22301 - Business Continuity Management Systems
 
