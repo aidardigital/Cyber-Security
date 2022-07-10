@@ -33,6 +33,8 @@ Here I store information about Cybersecurity management, leadership and program 
 
 • It is easy to loose sight of the big picture by focusing on issues.
 
+Source: © Deloitte & Touche LLP and affiliated entities.
+
 # What Do Need To Effectively Nanage Information Security Risk?
 
 1. Corporate decisions on how risk must be managed (strategy, principles,
@@ -60,6 +62,8 @@ and
 9. A common framework to put it all together.
 
 Information security needs to be a continuously operating management system
+
+Source: © Deloitte & Touche LLP and affiliated entities.
 
 # Recommended Resources
 - PECB - Professional Evaluation and Certification Board (ISO/IEC)
