@@ -7,7 +7,7 @@ Here I store information about Cybersecurity management, leadership and program 
 
 # Why Formal Information Security Management Is Required?
 
-Why is it a problem?
+**Why is it a problem?**
 
 • Dfferent threats leading to large and varied array of technology and vendors.
 
@@ -19,7 +19,7 @@ Why is it a problem?
 
 • Good security tends to be an opinion rather than a supportable fact.
 
-What Are The Implications?
+**What Are The Implications?**
 
 • Increased cost due to multiple technical controls and/or duplication.
 
