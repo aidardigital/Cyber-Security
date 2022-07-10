@@ -10,7 +10,7 @@ Here I describe my experience, best practices, lessons learned and journey in Cy
 - Self-Introduction & Who Am I
 - Purpose of a CISO Handbook
 
-**Vision & Mission***
+**Vision & Mission**
 
 - The Cybersecurity Program
 - Digital Technologies Effect
