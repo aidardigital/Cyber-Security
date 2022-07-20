@@ -1,1 +1,1 @@
-Here is described how to structure, deploy and implement a Cyber Program.
+Here is described how to structure, deploy and implement a Cyber Program, which consists of Cybersecurity, Data Privacy (DP) and Information Risk Management (IRM) / Governance, Risk and Compliance (GRC).
