@@ -17,37 +17,55 @@ Privacy Company Operating Model
 # Responsibilities
 
 Data Privacy Champion
+
 Data Pribacy Officer
+
 Data Privacy Coordinator
+
 Data Privacy Program Lead
+
 Data Privacy Law Advisors
+
 Data Privacy Risk Analysts
 
 Information Owners
+
 Leadership/Managers
 
 Business Process Owners
-Business Process SMEs
 
+Business Process SMEs
 
 # Privacy Principles
 
 Notice
+
 Consent
+
 Purpose
+
 Proportionaility
+
 Review
+
 Correction
+
 Security
+
 Processing
+
 Compliance
+
 Transfer
 
 # Privacy Lifecycle
 
 Assess
+
 Protect
+
 Sustain
+
 Respond
 
 # Glossary
