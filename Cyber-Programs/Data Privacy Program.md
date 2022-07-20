@@ -1,11 +1,17 @@
 # Introduction
 
 General Privacy Guidance, Goals
+
 Governance, Scope, Requirements
+
 Data Privacy Policy, Principles
+
 Data Privacy Laws and Frameworks
+
 Privacy By Design and By Default
+
 Privacy Risk Management Approach
+
 Privacy Company Operating Model
 
 # Responsibilities
