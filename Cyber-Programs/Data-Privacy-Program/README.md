@@ -18,7 +18,7 @@ Privacy Company Operating Model
 
 Data Privacy Champion
 
-Data Pribacy Officer
+Privacy Protection Officer
 
 Data Privacy Coordinator
 
